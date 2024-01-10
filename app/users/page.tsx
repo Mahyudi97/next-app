@@ -19,7 +19,7 @@ const UsersPage = async () => {
   return (
     <>
       <h1>Users</h1>
-      <div className="overflow-y-auto h-[200px]">
+      <div className="overflow-y-auto h-[100vh]">
         <table className="table">
           <thead>
             <tr>
