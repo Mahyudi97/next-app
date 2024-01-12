@@ -1,0 +1,14 @@
+.sidebar {
+    z-index: 50;
+    top: 0;
+    left: 0;
+    position:fixed;
+    height: 100%;
+    width: 300px;
+    padding: 20px;
+    background-color: #263238;
+    color: #F1F1F1;
+
+    /* transform: translateX(-100%); 
+    transition: transform .5s ease-in-out; */
+}
